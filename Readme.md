@@ -14,7 +14,13 @@ No Requirement of API ID and API HASH
 
    - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@YukkiBot/YukkiSpamBot)
    - Termux : `sh -c "$(curl -fsSL https://da.gd/YukkiBot)"` (Use `python string_session.py` next time to generate another string.)
+shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiChatBot
 
+shikhar@MacBook~ $ cd YukkiChatBot
+
+shikhar@MacBook~ $ pip3 install -r requirements.txt
+
+shikhar@MacBook~ $ mv sample.env .env
 
 ## Support Group
    - Join [Yukki Support Group](https://t.me/officialyukki) for any assistance.
